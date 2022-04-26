@@ -14,8 +14,32 @@ Se enumeran los requisitos que deben cumplirse al terminar el proyecto, estos so
 3. Identificar la frecuencia de palabras en cada documento
 4. Crear un grafico con las 50 palabras comunes en cada documento
 5. crear una nube de palabras con las 100 palabras mas usadas en cada documento.
-6. crear una presentación con el resumen de las evidencias estadisticas encontradas.
+6. Se identificará la freceuencia de uso de palabras de interes general especificadas a continuación
+    1. Reforma Tributaria
+    2. Reforma Pensional
+    3. Derechos Humanos
+    4. Reforma Policial
+    5. Aumentar Impuestos
+    6. Falsos Positivos
+    6. Paramilitarismo Paramilitar
+    7. Proceso de Paz
+    8. Farc, Victimas, Conflicto, 
+7. crear una presentación con el resumen de las evidencias estadisticas encontradas.
 
 ## Tecnologías y herramientas
 
+para el desarrollo de este proyecto se usaron las siguientes herramientas:
 
+- Macbook Pro M1 2020
+- Python 3.9.12
+- VisualStudio Code
+- Jupyter Notebook
+- Git 
+- Github
+
+### Librerias
+
+- pdfminer
+- re
+- nltk
+- Collections
