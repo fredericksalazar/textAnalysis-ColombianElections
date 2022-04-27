@@ -21,9 +21,9 @@ Se enumeran los requisitos que deben cumplirse al terminar el proyecto, estos so
     4. Reforma Policial
     5. Aumentar Impuestos
     6. Falsos Positivos
-    6. Paramilitarismo Paramilitar
-    7. Proceso de Paz
-    8. Farc, Victimas, Conflicto, 
+    7. Paramilitarismo Paramilitar
+    8. Proceso de Paz
+    9. Farc, Victimas, Conflicto, 
 7. crear una presentación con el resumen de las evidencias estadisticas encontradas.
 
 ## Tecnologías y herramientas
