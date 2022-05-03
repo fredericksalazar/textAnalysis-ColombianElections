@@ -2,3 +2,6 @@
 .DS_Store
 archivos/df_palabras_rodolfo.csv
 ftdm.xlsx
+twitter_mining/Twitter config
+twitter_mining/get_tweets.ipynb
+twitter_mining/nt_get_tweets.ipynb
